@@ -16,7 +16,7 @@ Are you working on a new mobile or watch app idea? It is always good to draw ske
 | Screen Size | Screenshot | Download Template |
 | -- | -- | -- |
 | **6.1 Inches <br> (iPhone Xr)**  |  ![Screenshot](screenshots/phone-6.1inch-wireframe-320px.jpg)  |  [**phone-6.1inch-wireframe.pdf**](phone-6.1inch-wireframe.pdf) |
-| **5.8 Inches <br> (iPhone Xs)**.  | ![Screenshot](screenshots/phone-5.8inch-wireframe-320px.jpg) | [**phone-5.8inch-wireframe.pdf**](phone-5.8inch-wireframe.pdf) |
+| **5.8 Inches <br> (iPhone Xs)**  | ![Screenshot](screenshots/phone-5.8inch-wireframe-320px.jpg) | [**phone-5.8inch-wireframe.pdf**](phone-5.8inch-wireframe.pdf) |
 | **6.5 Inches <br> (iPhone Xs Max)** | ![Screenshot](screenshots/phone-6.5inch-wireframe-320px.jpg) | [**phone-6.5inch-wireframe.pdf**](phone-6.5inch-wireframe.pdf) |
 
 
@@ -25,7 +25,7 @@ Are you working on a new mobile or watch app idea? It is always good to draw ske
 | Screen Size | Screenshot | Download Template |
 | -- | -- | -- |
 | **6.1 Inches <br> (iPhone Xr)**  |  ![Screenshot](screenshots/phone-6.1inch-wireframe-2x2-320px.jpg)  |  [**phone-6.1inch-wireframe-2x2.pdf**](phone-6.1inch-wireframe-2x2.pdf) |
-| **5.8 Inches <br> (iPhone Xs)**.  | ![Screenshot](screenshots/phone-5.8inch-wireframe-2x2-320px.jpg) | [**phone-5.8inch-wireframe-2x2.pdf**](phone-5.8inch-wireframe-2x2.pdf) |
+| **5.8 Inches <br> (iPhone Xs)**  | ![Screenshot](screenshots/phone-5.8inch-wireframe-2x2-320px.jpg) | [**phone-5.8inch-wireframe-2x2.pdf**](phone-5.8inch-wireframe-2x2.pdf) |
 | **6.5 Inches <br> (iPhone Xs Max)** | ![Screenshot](screenshots/phone-6.5inch-wireframe-2x2-320px.jpg) | [**phone-6.5inch-wireframe-2x2.pdf**](phone-6.5inch-wireframe-2x2.pdf) |
 
 ##  Mobile Apps - 9 Screens (3x3)
@@ -42,20 +42,20 @@ Are you working on a new mobile or watch app idea? It is always good to draw ske
 | Screen Size | Screenshot | Download Template |
 | -- | -- | -- |
 | **40 mm <br> (Apple Watch 4 40mm)**  |  ![Screenshot](screenshots/watch-40mm-wireframe-320px.jpg)  |  [**watch-40mm-wireframe.pdf**](watch-40mm-wireframe.pdf) |
-| **44 mm <br> (Apple Watch 4 44mm)**.  | ![Screenshot](screenshots/watch-44mm-wireframe-320px.jpg) | [**watch-44mm-wireframe.pdf**](watch-44mm-wireframe.pdf) |
+| **44 mm <br> (Apple Watch 4 44mm)**  | ![Screenshot](screenshots/watch-44mm-wireframe-320px.jpg) | [**watch-44mm-wireframe.pdf**](watch-44mm-wireframe.pdf) |
 
 ##  Apple Watch Apps - 4 Screens (2x2)
 
 | Screen Size | Screenshot | Download Template |
 | -- | -- | -- |
 | **40 mm <br> (Apple Watch 4 40mm)**  |  ![Screenshot](screenshots/watch-40mm-wireframe-2x2-320px.jpg)  |  [**watch-40mm-wireframe-2x2.pdf**](watch-40mm-wireframe-2x2.pdf) |
-| **44 mm <br> (Apple Watch 4 44mm)**.  | ![Screenshot](screenshots/watch-44mm-wireframe-2x2-320px.jpg) | [**watch-44mm-wireframe-2x2.pdf**](watch-44mm-wireframe-2x2.pdf) |
+| **44 mm <br> (Apple Watch 4 44mm)**  | ![Screenshot](screenshots/watch-44mm-wireframe-2x2-320px.jpg) | [**watch-44mm-wireframe-2x2.pdf**](watch-44mm-wireframe-2x2.pdf) |
 
 ##  Apple Watch Apps - 9 Screens (3x3)
 
 | Screen Size | Screenshot | Download Template |
 | -- | -- | -- |
 | **40 mm <br> (Apple Watch 4 40mm)**  |  ![Screenshot](screenshots/watch-40mm-wireframe-3x3-320px.jpg)  |  [**watch-40mm-wireframe-3x3.pdf**](watch-40mm-wireframe-3x3.pdf) |
-| **44 mm <br> (Apple Watch 4 44mm)**.  | ![Screenshot](screenshots/watch-44mm-wireframe-3x3-320px.jpg) |[**watch-44mm-wireframe-3x3.pdf**](watch-44mm-wireframe-3x3.pdf) |
+| **44 mm <br> (Apple Watch 4 44mm)**  | ![Screenshot](screenshots/watch-44mm-wireframe-3x3-320px.jpg) |[**watch-44mm-wireframe-3x3.pdf**](watch-44mm-wireframe-3x3.pdf) |
 
 
