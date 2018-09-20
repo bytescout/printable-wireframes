@@ -1,15 +1,18 @@
-# printable-wireframes
-printable wireframes for app prototyping. Print on US Letter Size paper and use for drawing on it.
+# Printable Wireframes Templates for iPhone Apps and Apple Watch Apps
 
 
 Are you working on a new mobile or watch app idea? It is always good to draw sketches on paper first to discuss and to iterate. Here are a few templates that will help you in wireframing your app and app workflow.
+
+Print on *US Letter Size* paper and draw your prototypes on these templates.
 
 ## How to use:
 
 - download PDF file with the template (see below)
 - print template on US Letter Size paper
-- draw wireframes of your app</li>
+- use pencil and pen to draw wireframes of your app on the template</li>
 - show, iterate, discuss wireframes with potential users, friends, clients
+
+## License: Common Creative License
 
 ##  Mobile Apps - Single Screen
 
